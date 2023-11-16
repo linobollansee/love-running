@@ -5,6 +5,9 @@
     box-sizing: border-box;
 }
 
+/* General styles */
+body {}
+
 /* Header */
 header {
     background-color: lightcoral;
